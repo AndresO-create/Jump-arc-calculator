@@ -1,2 +1,5 @@
 #ignore .uid files
 .env
+
+#ignore project.godot file
+.godot
